@@ -14,4 +14,5 @@ public class CalcTest {
     void testSubtract() {
       calc c = new Calc();
       assertEquals(2, c.subtract(4,2));
+    }
 }
